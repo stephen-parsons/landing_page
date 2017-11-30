@@ -1,0 +1,16 @@
+body {
+	padding: 50px;
+}
+body h1 {
+	text-align: center;
+}
+body a {
+	text-decoration: none;
+	font-size: 20px;
+}
+#ninjas_body {
+	text-align: center;
+}
+/*#dojos_form input {
+	display: block;
+}*/
